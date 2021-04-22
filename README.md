@@ -11,7 +11,7 @@ These generate a widget to use on home screen
 
 [TODO] link to  instructions on how to add
 
-* what_is_my_ip.js - shows the current ip your device appears as on the internet. Useful for  scenarios where you are behind any NAT device or using mobile carrier for internet access
+* whatismyip.js - shows the current ip your device appears as on the internet. Useful for  scenarios where you are behind any NAT device or using mobile carrier for internet access
 
 My use case: firewall with multiple vpnclient tunnels using multiple VPNs. i like to know which one my traffic is being routed through at any particular time
 
