@@ -16,6 +16,9 @@ These generate a widget to use on home screen
     * My use case: firewall with multiple vpnclient tunnels using multiple VPNs. i like to know which one my traffic is being routed through at any particular time
     * NOTE: powered by https://whatismyip.host
 
+![Example (showing a VPN service ip)](images/screenshot_whatismyip.png)
+
+
 * Pihole_simple_stats.js - barebones, widget size: small
     * Status -- "Enabled" in green text, all other values display in red
     * Queries count for today
@@ -24,7 +27,7 @@ These generate a widget to use on home screen
     * Number of unique domains
     * Gravity DB age
 
-
+![Example (showing stats from just 2 humans but a cacophony of IoT devices)](images/screenshot_pihole_simple_stats.png)
 
 
 ## not widgets
