@@ -31,3 +31,8 @@ NOTE: powered by https://whatismyip.host
 ## not widgets
 
 [TODO] Write some scripts that aren't widgets
+
+
+
+# License
+jpinkham/Scriptables is licensed under the GNU General Public License v3.0
